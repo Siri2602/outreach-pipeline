@@ -1,0 +1,17 @@
+Hi {first_name},
+
+I came across {company} while researching teams doing impressive work in your space, and your role as {title} immediately stood out.
+
+We help companies like yours accelerate their growth pipeline by turning manual prospecting into automated, targeted outreach — the kind that actually gets replies.
+
+For a {title} at {company}, that usually means:
+• 3-5x more qualified meetings per month
+• Sales team focused on closing, not chasing leads
+• A predictable pipeline you can actually forecast
+
+Would a quick 15-minute call next week be worth exploring if there's a fit? I'm happy to work around your calendar.
+
+Best,
+{sender_name}
+
+P.S. If timing isn't right, no worries — just let me know and I won't follow up.
