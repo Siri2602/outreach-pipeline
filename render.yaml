@@ -1,0 +1,20 @@
+# Render Blueprint - Auto-configures the service
+services:
+  - type: web
+    name: outreach-pipeline
+    runtime: python
+    buildCommand: pip install -e .
+    startCommand: python -m http.server 8080
+    envVars:
+      - key: OCEAN_API_KEY
+        sync: false
+      - key: PROSPEO_API_KEY
+        sync: false
+      - key: EAZYREACH_API_KEY
+        sync: false
+      - key: BREVO_API_KEY
+        sync: false
+      - key: SENDER_NAME
+        sync: false
+      - key: SENDER_EMAIL
+        sync: false
